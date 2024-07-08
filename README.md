@@ -1,3 +1,6 @@
+Mon serveur discord :
+https://discord.com/invite/jqJdCeS6fq
+
 - 👋 Hi, I’m @MisterRabbitYT
 - 👀 I’m interested in create websites
 - 🌱 I’m currently learning 
