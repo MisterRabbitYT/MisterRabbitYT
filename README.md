@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MisterRabbitYT
 - 👀 I’m interested in create websites
 - 🌱 I’m currently learning 
-- 📫 How to reach me ...
 - 😄 Pronouns: bababoy
 - ⚡ Fun fact: ⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⠤⠀⠄⢀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⡠⢧⣾⣷⣿⣿⣵⣿⣄⠀⠀⠀⠀⠀⠀
