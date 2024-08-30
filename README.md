@@ -1,11 +1,14 @@
+
 Mon serveur discord :
 https://discord.com/invite/jqJdCeS6fq
 
 - 👋 Hi, I’m @MisterRabbitYT
-- 👀 I’m interested in create websites
-- 🌱 I’m currently learning 
-- 😄 Pronouns: bababoy
-- ⚡ Fun fact: ⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⠤⠀⠄⢀⠀⠀⠀⠀⠀⠀⠀⠀
+- 🌈 yeeah boooy
+- 🍄🍝 Fan de super mario 
+- 👀 Je peux créer des Sprites 2d pour des jeux vidéos 🤩
+- 🌱 J'apprends à toucher du code 😆
+- 😄 Pronouns: bababoy 😶
+⠀⠀⠀⠀⠀⠀⠀⠀⡀⠤⠀⠄⢀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⡠⢧⣾⣷⣿⣿⣵⣿⣄⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⢰⢱⡿⠟⠛⠛⠉⠙⢿⣿⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⢸⣿⡇⣤⣤⡀⢠⡄⣸⢿⠀⠀⠀⠀⠀⠀
@@ -20,6 +23,7 @@ https://discord.com/invite/jqJdCeS6fq
 
 Si vous cherchez quelqu'un pour dessiné me voilà 😁👏
 
+😆 je vais rendre cette page magnifique 
 
 
 <!---
