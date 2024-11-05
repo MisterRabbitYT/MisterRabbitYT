@@ -3,12 +3,12 @@
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRcspdXIdwiUirE6DsHzLrFWUGyjT16JMkTtzwXAIQ9Q&s">
-  <source media="(prefers-color-scheme: light)" srcset="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRcspdXIdwiUirE6DsHzLrFWUGyjT16JMkTtzwXAIQ9Q&s">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRcspdXIdwiUirE6DsHzLrFWUGyjT16JMkTtzwXAIQ9Q&s">
+ <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
+ <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
+ <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
 </picture>
 
-Mon serveur discord :
+## Mon serveur discord :
 https://discord.com/invite/jqJdCeS6fq
 
 - 👋 Hi, I’m @MisterRabbitYT
