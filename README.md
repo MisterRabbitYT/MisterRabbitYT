@@ -3,9 +3,9 @@
 
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/95bbbde7-a98f-40f2-bdd4-2de60b70dfd5">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/95bbbde7-a98f-40f2-bdd4-2de60b70dfd5">
+ <img alt="YOUR-ALT-TEXT" src="https://github.com/user-attachments/assets/95bbbde7-a98f-40f2-bdd4-2de60b70dfd5">
 </picture>
 
 ## Mon serveur discord :
