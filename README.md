@@ -1,7 +1,6 @@
 
 # Salut ✌️ 🤗 Tout le monde 🦅🌟
 
-
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/95bbbde7-a98f-40f2-bdd4-2de60b70dfd5">
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/95bbbde7-a98f-40f2-bdd4-2de60b70dfd5">
