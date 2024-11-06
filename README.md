@@ -15,7 +15,7 @@ https://discord.com/invite/jqJdCeS6f
  <img alt="YOUR-ALT-TEXT" src="https://github.com/user-attachments/assets/f8c15d42-4420-49f1-a0b7-e8b8998de957">
 </picture>
 
-Si vous cherchez quelqu'un pour dessiné me voilà 😁👏
+Si vous cherchez quelqu'un pour dessiner me voilà 😁👏
 
 😆 je vais rendre cette page magnifique 
 
