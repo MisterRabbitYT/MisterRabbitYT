@@ -1,19 +1,15 @@
 
 # Salut ✌️ 🤗 Tout le monde 🦅🌟
 
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/95bbbde7-a98f-40f2-bdd4-2de60b70dfd5">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/95bbbde7-a98f-40f2-bdd4-2de60b70dfd5">
- <img alt="YOUR-ALT-TEXT" src="https://github.com/user-attachments/assets/95bbbde7-a98f-40f2-bdd4-2de60b70dfd5">
-</picture>
+🧠 Je crée des jeux est des choses sympas en python 
+🎨🖌️ Je dessine 
+🌟 je suis Youtubeur 🌐
+🤣 J'ai pas d'idées mdrrr 
+🍷🤓 Tkt je suis pas un Nerd 
+🤡 Modo discord/admin/créateur de serv discord 
 
 ## Mon serveur discord :
 https://discord.com/invite/jqJdCeS6f
-⠀⠀⠀⠀⠀⠀⠀⠀
-<source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/f8c15d42-4420-49f1-a0b7-e8b8998de957">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/f8c15d42-4420-49f1-a0b7-e8b8998de957">
- <img alt="YOUR-ALT-TEXT" src="https://github.com/user-attachments/assets/f8c15d42-4420-49f1-a0b7-e8b8998de957">
-</picture>
 
 Si vous cherchez quelqu'un pour dessiner me voilà 😁👏
 
