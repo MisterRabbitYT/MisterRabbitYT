@@ -15,6 +15,11 @@ Si vous cherchez quelqu'un pour dessiner me voilà 😁👏
 😆 je vais rendre cette page magnifique 
 
 
+> [!TIP]
+> Si tu veux parler avec moi : DM moi sur discord @mr.rabbit64
+
+
+
 
 
 <!---
