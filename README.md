@@ -14,6 +14,8 @@ Si vous cherchez quelqu'un pour dessiner me voilà 😁👏
 
 😆 je vais rendre cette page magnifique 
 
+import { makeBadge, ValidationError } from 'badge-maker'
+
 {
   label: 'build', 
   message: 'passed', 
