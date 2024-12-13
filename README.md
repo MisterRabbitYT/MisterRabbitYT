@@ -26,6 +26,12 @@ Si vous cherchez quelqu'un pour dessiner me voilà 😁👏
 
 </details>
 
+
+<details>
+
+<summary>Secret</summary>
+
+  
 ```stl
 solid cube_corner
   facet normal 0.0 -1.0 0.0
@@ -58,6 +64,8 @@ solid cube_corner
   endfacet
 endsolid
 ```
+
+</details>
 
 > [!TIP]
 > Si tu veux parler avec moi : DM moi sur discord @mr.rabbit64
