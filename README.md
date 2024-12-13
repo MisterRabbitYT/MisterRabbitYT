@@ -14,7 +14,7 @@ Si vous cherchez quelqu'un pour dessiner me voilà 😁👏
 
 😆 je vais rendre cette page magnifique 
 
-details>
+<details>
 
 <summary>Mes projects pour l'avenir</summary>
 
