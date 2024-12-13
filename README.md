@@ -8,15 +8,14 @@
 🍷🤓 Tkt je suis pas un Nerd 
 🤡 Modo discord/admin/créateur de serv discord 
 
-## Mon serveur discord :
-https://discord.com/invite/jqJdCeS6f
+## Mon serveur discord : [Mister Rabbit world 🌍🌟](https://discord.gg/zqNBgKxRsy)
 
 Si vous cherchez quelqu'un pour dessiner me voilà 😁👏
 
 😆 je vais rendre cette page magnifique 
 
 
-The background color is `#ffffff` for light mode and `#000000` for dark mode.
+
 
 <!---
 MisterRabbitYT/MisterRabbitYT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
