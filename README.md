@@ -16,6 +16,8 @@ Si vous cherchez quelqu'un pour dessiner me voilà 😁👏
 
 <details>
 
+import { makeBadge, ValidationError } from 'badge-maker'
+
 <summary>Mes projects pour l'avenir</summary>
 
 ### Liste :
