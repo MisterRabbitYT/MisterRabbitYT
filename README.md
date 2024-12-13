@@ -14,6 +14,20 @@ Si vous cherchez quelqu'un pour dessiner me voilà 😁👏
 
 😆 je vais rendre cette page magnifique 
 
+details>
+
+<summary>Mes projects pour l'avenir</summary>
+
+### Liste :
+
+- un fan game super mario et aywen ( oui )
+- une maps Gmod vraiment cool
+- un jeux 2d de plateforme avec le moteur godot 
+
+
+
+</details>
+
 
 > [!TIP]
 > Si tu veux parler avec moi : DM moi sur discord @mr.rabbit64
