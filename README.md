@@ -14,22 +14,6 @@ Si vous cherchez quelqu'un pour dessiner me voilà 😁👏
 
 😆 je vais rendre cette page magnifique 
 
-import { makeBadge, ValidationError } from 'badge-maker'
-
-{
-  label: 'build', 
-  message: 'passed', 
-  labelColor: '#555',  
-  color: '#4c1',  
-  logoBase64: 'data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCI+PHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiByeD0iOCIgZmlsbD0iI2IxY2U1NiIvPjxwYXRoIGQ9Ik04IDBoMjR2NjRIOGMtNC40MzIgMC04LTMuNTY4LTgtOFY4YzAtNC40MzIgMy41NjgtOCA4LTh6IiBmaWxsPSIjNWQ1ZDVkIi8+PC9zdmc+' 
-  links: ['https://youtube.com/@misterrabbit64?si=iFr07xYVLaLLmrwS'], 
-
-  
-
-<details>
-
-<summary>Mes projects pour l'avenir</summary>
-
 ### Liste :
 
 - un fan game super mario et aywen ( oui )
